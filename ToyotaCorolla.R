@@ -1,5 +1,5 @@
 #Lectura de CSV
-toyota.corolla <- read.csv("/Users/samuelbeltranlastra/Documents/Proyecto R Git/medium/ToyotaCorolla.csv")
+toyota.corolla <- read.csv("/Users/sbl/Documents/Proyecto R Git/medium/ToyotaCorolla.csv")
 
 #Verificar número de filas y columnas
 dim(toyota.corolla)
